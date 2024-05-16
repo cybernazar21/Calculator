@@ -43,13 +43,12 @@ buttonsArray.forEach(button => {
 
         // отримую натиснуту кнопку на екран
         const key = event.target.textContent;
-        
 
         if (key === "←"){
             a = a.slice(0, -1);
             if(a.length <= 0) {
-                a = 0;
-                b = 0;
+                a = '';
+                
             }
             displayTextOutput.textContent = a;
             return;
