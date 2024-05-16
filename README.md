@@ -1,2 +1,2 @@
 ## My first calculator
-[Look at this](https://pages.github.com/).
+[Look at this](https://cybernazar21.github.io/Calculator/Calculator/).
